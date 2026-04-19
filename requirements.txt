@@ -1,2 +1,4 @@
 gradio
 ollama
+pydub
+openai-whisper
